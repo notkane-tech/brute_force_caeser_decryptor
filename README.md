@@ -3,7 +3,7 @@
 A Python-based tool for decrypting messages encoded with the Caesar Cipher.
 Users can either input a known shift value or let the program brute-force all possible shifts to reveal the plaintext.
 
-I have just arrived at the realisation that I have spelt 'Caesar' wrong everywhere! Oops!
+I have just come to the realisation I've spelt 'Caesar' wrong everywhere! Oops!
 
 # Features
 
