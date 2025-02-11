@@ -8,7 +8,7 @@ Decrypts Caesar Cipher messages with a specified shift.
 Brute-force mode to try all possible shifts automatically.
 Interactive command-line interface for ease of use.
 
-Successfully tested using NCSC's Caesar Cypher Exercises
+Successfully tested using NCSC's Caesar Cypher Exercises at https://www.ncsc.gov.uk/static-assets/documents/ECW21-UoS-Cipher-Challenge-Student-Worksheet.pdf5
 
 # Getting Started
 
